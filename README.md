@@ -4,7 +4,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-<img src="https://github.com/Olamilekanda/NovaBot/blob/main/IMG/NovaBot.jpg"/> 
+<img src="https://i.imgur.com/yeN7wdk.jpeg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Olamilekanda}/count.svg" alt="Olamilekanda :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Olamilekanda/followers"><img title="Followers" src="https://img.shields.io/github/followers/Olamilekanda?color=red&style=flat-square"></a>
