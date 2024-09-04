@@ -79,7 +79,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2348084834474"><img src="https://img.shields.io/badge/Contact OlaTheDev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2348084834474"><img src="https://img.shields.io/badge/Contact Blake Hunter-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/JqtuNXa8wSIEzspNg4kkXK"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/LAKEA1DROP"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -111,6 +111,6 @@
 
 ## Community and Support
 
-FOLLOW OlaTheDev WHATSAPP CHANNEL FOR MORE UPDATES
+FOLLOW Blake Hunter WHATSAPP CHANNEL FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/JqtuNXa8wSIEzspNg4kkXK)
 
